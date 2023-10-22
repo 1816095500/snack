@@ -10,7 +10,7 @@ Push the branch: When the work on the branch is completed, push it to the reposi
 
 Create a Pull Request: Return to the project page, and the system should prompt you to create a pull request. If not prompted, you can create it manually.
 
-# Pluse
+# Plus
 Pull request should include test
 
 Merge request: One another member approval
