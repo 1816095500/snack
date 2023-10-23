@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="32aa5a61-f4e6-4315-9737-cce1bb1e9167" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/snacktwo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/TestDraw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/snacktwo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/snacktwo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/snacktwo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/snacktwo/.idea/snacktwo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/snacktwo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/snacktwo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/snacktwo/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/snacktwo/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/snacktwo/Snack/GameFrame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/snacktwo/Snack/GamePanel$MyKeyAdapter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/snacktwo/Snack/SnackGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Snack/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/Snack/GamePanel.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="issue1-fix_improve" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2X7KoDYdOz6dYrg11itcfkffadm" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "temurin-17",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.TestDraw">
+    <configuration name="SnackGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Snack.SnackGame" />
+      <module name="snacktwo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Snack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDraw" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="snacktwo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Test" />
+      <option name="MAIN_CLASS_NAME" value="Test.TestDraw" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestDraw" />
+        <item itemvalue="Application.SnackGame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32aa5a61-f4e6-4315-9737-cce1bb1e9167" name="Changes" comment="" />
+      <created>1697974850863</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697974850863</updated>
+      <workItem from="1697974852481" duration="7000" />
+      <workItem from="1697974882659" duration="8000" />
+      <workItem from="1697974920603" duration="45000" />
+      <workItem from="1697974991552" duration="32000" />
+      <workItem from="1697975034793" duration="7000" />
+      <workItem from="1697975050827" duration="22000" />
+      <workItem from="1697975085051" duration="571000" />
+      <workItem from="1697975767455" duration="517000" />
+      <workItem from="1698014545068" duration="186000" />
+      <workItem from="1698098769642" duration="21000" />
+      <workItem from="1698098801006" duration="10000" />
+      <workItem from="1698098823727" duration="11000" />
+      <workItem from="1698098856808" duration="1012000" />
+      <workItem from="1698099912690" duration="2464000" />
+    </task>
+    <task id="LOCAL-00001" summary="set basic">
+      <created>1697975200709</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697975200709</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fix bug issue#1">
+      <created>1698014603750</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698014603750</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fix bug issue#1">
+      <created>1698100160635</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698100160635</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fix bug issue#1">
+      <created>1698101304072</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698101304072</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fix bug issue#1">
+      <created>1698101763036</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1698101763036</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="set basic" />
+    <MESSAGE value="fix bug issue#1" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix bug issue#1" />
+  </component>
+</project>
