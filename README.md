@@ -13,4 +13,4 @@ Create a Pull Request: Return to the project page, and the system should prompt 
 # Plus
 Pull request should include test
 
-Merge request: One another member approval
+Merge request: Maintainer approval
